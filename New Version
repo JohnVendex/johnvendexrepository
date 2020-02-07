@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./CSS/index.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="home-header">
+        <h1 id="name" >I'm John Vendex Regio</h1>
+        <h2 id="subname" >Web designer</h2>
+
+    </header>
+    <section class="home-section-intro">
+        <img id="ako" src="img/IMG_20200124_185320_551.jpg">
+        
+    </section>
+    
+    <section class="home-section-skills">
+        <div>
+            <input id="contact" type="image" src="img/button.png">
+            <h1 id="nameako">Hello</h1>
+            <h2 id="subnameako">Aspiring Web Developer who loves music</h2>
+            <h3 id="contentconsole">This is anything i can type right now</h3>
+            <p id="paragraph">this is the sub content and it will look even more nicer if this is long and this is going to be long </p>
+            <p id="paragraph2">because im typing anything i think of right now.. which is so nonsesne and just normal and i dont know what to say right now</p>
+            <p id="paragraph3">this is also a way to increase the content even tho this is pointless and yeah i just wanna increase the text space and things like that</p>
+        </div>
+
+    </section>
+    
+    <img id="bundok" src="img/mountain.png">
+    <img id="ulap1" src="img/cloud.png">
+    <img id="ulap2" src="img/cloud.png">
+    <img id="console" src="img/browser.png">
+    
+    
+   
+
+    <footer class="home-footer">
+    
+    
+
+    </footer>
+    
+</body>
+</html>
